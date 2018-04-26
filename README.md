@@ -1,2 +1,2 @@
 # ToughC
-Touch C Manual for Beginners
+Extremely Tough C Manual Project for Beginners
